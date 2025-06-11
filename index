@@ -108,10 +108,10 @@
 
 <script>
     // ========== BASEROW Konfiguration ==========
-    const BASEROW_API_TOKEN = "FvUw1TKGZMqNDM64zabhNWzvvr0EMOow";
+    const BASEROW_API_TOKEN = "IFMpLzN7n8NCLtwNOTmlTzIPx9X8oidv";
     const BASEROW_SERVER_URL = "https://api.baserow.io";
-    const EINTRAEGE_TABLE_ID = 564391;
-    const KONFIG_TABLE_ID    = 564392;
+    const EINTRAEGE_TABLE_ID = 570400;
+    const KONFIG_TABLE_ID    = 570401;
     // ===========================================
 
     let admin = false;
